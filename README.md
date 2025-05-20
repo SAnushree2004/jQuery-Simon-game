@@ -23,4 +23,4 @@ Through this project, I learned about DOM manipulation, animations, and event ha
 
 ## 🔗 Live Demo
 
-[Click here to play the game](#) 
+[Click here to play the game](https://sanushree2004.github.io/jQuery-Simon-game/) 
